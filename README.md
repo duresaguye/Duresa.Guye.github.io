@@ -1,4 +1,4 @@
-# Elshadai Tegegn's CV Website
+# Duresa Guye's CV Website
 
 Welcome to the repository of my online Curriculum Vitae. This platform is developed using React and showcases my academic background, professional experiences, and various technical and research projects.
 
